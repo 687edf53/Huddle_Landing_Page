@@ -39,9 +39,9 @@ body {
 
 .container .nav img {
   position: absolute;
-  top: 30px;
+  top: 50px;
   left: 50px;
-  width: 150px;
+  width: 200px;
 }
 
 .content {
