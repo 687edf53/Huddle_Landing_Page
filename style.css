@@ -139,7 +139,7 @@ button:hover {
   color: rgb(1, 242, 255);
 }
 
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 991px) {
   .container {
     flex-direction: column;
     background: url('./images/bg-mobile.svg') no-repeat;
